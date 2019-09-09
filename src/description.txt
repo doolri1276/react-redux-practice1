@@ -1,0 +1,6 @@
+//첫번째 설명
+
+//install 해줍니다.
+//npm install react
+//npm install react-redux
+//npm install --save-dev redux-devtools
